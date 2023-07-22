@@ -23,3 +23,7 @@ Instale o aplicativo no disco local C no Windows.
 ![instalar01](https://github.com/felliperibeiroteixeira/clique-remove-bg/assets/110578874/e2fb5c2b-15a9-476f-9e67-7e3e1dbd07c6)
 
 ![instalar02](https://github.com/felliperibeiroteixeira/clique-remove-bg/assets/110578874/ce50795b-5a57-4633-a979-d08f582ad0ab)
+
+Dowload
+
+https://github.com/felliperibeiroteixeira/clique-remove-bg/releases/tag/v0.1-beta
